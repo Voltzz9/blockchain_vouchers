@@ -3,10 +3,11 @@
     "symbol": "NIKE",
     "description": "Nike running shoes and stuff",
     "image": "https://cdn.pixabay.com/photo/2024/05/25/11/02/ai-generated-8786840_960_720.png",
-    "attributes": [
-        {
-            "trait_type": "Background",
-            "value": "Blue"
-        }
-    ]
+    "metadata": {
+        "expiration_date": "2024-12-31",
+        "transaction_status": "Issued",
+        "issuer": "Nike Inc.",
+        "provider": "Nike Store",
+        "redemption_date": null
+    }
 }
