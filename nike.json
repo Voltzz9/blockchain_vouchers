@@ -1,0 +1,12 @@
+{
+    "name": "Nike Running Shoes",
+    "symbol": "NIKE",
+    "description": "Nike running shoes and stuff",
+    "image": "https://cdn.pixabay.com/photo/2024/05/25/11/02/ai-generated-8786840_960_720.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        }
+    ]
+}
